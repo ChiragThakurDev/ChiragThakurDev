@@ -146,7 +146,7 @@
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-Chirag%20Thakur-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="mailto:chiragthakur.dev@gmail.com">
+  <a href="mailto:chirag212003@gmail.com">
     <img src="https://img.shields.io/badge/Email-chiragthakur.dev%40gmail.com-red?style=for-the-badge&logo=gmail">
   </a>
 </p>
