@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;MERN+Stack+Developer;C%2B%2B+Programmer;DSA+Learner;AI+%26+ML+Enthusiast;Always+Learning+🚀"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;MERN+Stack+Developer;C+%26+C%2B%2B+Programmer;DSA+Learner;AI+%26+ML+Enthusiast;Always+Learning+🚀"/>
 </p>
 
 ---
@@ -31,14 +31,15 @@
 - 💻 MERN Stack Developer
 - 📚 Currently learning **C++ with DSA**
 - 🚀 Building real-world full-stack projects
-- ⚡ Focused on backend & system design
+- ⚡ Focused on Backend Development & System Design
+- 🤖 Exploring AI & Machine Learning
 
 ---
 
 # 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,c,cpp,react,nodejs,express,mongodb,html,css,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,c,cpp,react,nodejs,express,mongodb,html,css,git,github,vscode,linux&theme=dark" />
 </p>
 
 ---
@@ -47,13 +48,14 @@
 
 ## 🛒 E-Shopping
 
-- 🛍️ Full-stack e-commerce application
-- 🔐 Authentication + Product Management
-- 🛒 Cart & Order System
+- 🛍️ Full-stack E-Commerce Application
+- 🔐 Authentication & Authorization
+- 🛒 Cart & Order Management
+- 📦 Product Management
 
 <p align="center">
   <a href="https://github.com/ChiragThakurDev/E-Shopping">
-    <img src="https://img.shields.io/badge/View%20Code-000?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/View_Code-GitHub-black?style=for-the-badge&logo=github">
   </a>
 </p>
 
@@ -61,13 +63,14 @@
 
 ## 💬 Chat Application
 
-- ⚡ Real-time Messaging
+- ⚡ Real-Time Messaging
 - 👤 Username System
 - 💾 Chat History Storage
+- 🔌 WebSocket Integration
 
 <p align="center">
   <a href="https://github.com/ChiragThakurDev/Chat-App">
-    <img src="https://img.shields.io/badge/View%20Code-000?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/View_Code-GitHub-black?style=for-the-badge&logo=github">
   </a>
 </p>
 
@@ -75,13 +78,13 @@
 
 ## 🍿 UsePopCorn
 
-- 🎬 Movie Tracking React App
-- ⭐ Add & Manage Watched Movies
-- 📊 Interactive UI
+- 🎬 Movie Tracking React Application
+- ⭐ Watchlist Management
+- 📊 Interactive User Interface
 
 <p align="center">
   <a href="https://github.com/ChiragThakurDev/UsePopCorn">
-    <img src="https://img.shields.io/badge/View%20Code-000?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/View_Code-GitHub-black?style=for-the-badge&logo=github">
   </a>
 </p>
 
@@ -91,6 +94,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/MERN%20Stack-Developer-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-Engineer-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/DSA-Learner-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AI%20%26%20ML-Enthusiast-purple?style=for-the-badge" />
 </p>
@@ -119,6 +123,18 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChiragThakurDev&theme=tokyo-night" />
+</p>
+
+---
+
+# 🐍 Snake Animation
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChiragThakurDev/ChiragThakurDev/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChiragThakurDev/ChiragThakurDev/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ChiragThakurDev/ChiragThakurDev/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
